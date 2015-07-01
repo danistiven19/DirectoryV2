@@ -7,7 +7,7 @@ using DirectoryPersistence.EntPerson;
 
 namespace DirectoryPersistence.Entities
 {
-    class City
+    public class City
     {
         public int cityId { get; set; }
         public string cityName { get; set; }
