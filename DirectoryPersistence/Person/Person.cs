@@ -17,4 +17,8 @@ namespace DirectoryPersistence.Person
         public int city { get; set; }
         public virtual City City1 { get; set; }
     }
+
+    public class Person
+    {
+    }
 }
