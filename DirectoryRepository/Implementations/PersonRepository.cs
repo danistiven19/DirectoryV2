@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DirectoryPersistence.Person;
+using DirectoryPersistence.EntPerson;
 
 namespace DirectoryRepositoryInterfaces.Implementations
 {
