@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTest", "DirectoryT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryExternalServices", "DirectoryExternalServices\DirectoryExternalServices.csproj", "{2C485F26-C1CB-4F5F-A934-201766077E34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryUI", "DirectoryUI\DirectoryUI.csproj", "{FC454BF7-6F07-467D-B4DC-3BD4E962A195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2C485F26-C1CB-4F5F-A934-201766077E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C485F26-C1CB-4F5F-A934-201766077E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C485F26-C1CB-4F5F-A934-201766077E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC454BF7-6F07-467D-B4DC-3BD4E962A195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC454BF7-6F07-467D-B4DC-3BD4E962A195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC454BF7-6F07-467D-B4DC-3BD4E962A195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC454BF7-6F07-467D-B4DC-3BD4E962A195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

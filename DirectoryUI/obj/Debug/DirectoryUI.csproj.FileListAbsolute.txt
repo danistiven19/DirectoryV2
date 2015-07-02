@@ -1,0 +1,5 @@
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryUI\bin\DirectoryUI.dll.config
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryUI\bin\DirectoryUI.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryUI\bin\DirectoryUI.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryUI\obj\Debug\DirectoryUI.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryUI\obj\Debug\DirectoryUI.pdb

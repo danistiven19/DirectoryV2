@@ -4,3 +4,4 @@ C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\Dire
 C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\bin\Debug\DirectoryPersistence.pdb
 C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\obj\Debug\DirectoryPersistence.dll
 C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\obj\Debug\DirectoryPersistence.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\obj\Debug\DirectoryRepositoryPersistence.csprojResolveAssemblyReference.cache

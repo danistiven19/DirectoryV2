@@ -16,11 +16,13 @@ namespace DirectoryRepository.Implementations
     public class PersonRepository: IPersonRepository
     {
         private readonly SqlConnection _connection;
-       
+        private DBProviderFactory _provider;
 
         public PersonRepository()
         {
-            _connection = new DBProviderFactory().connection;
+            _provider = new DBProviderFactory();
+            _connection = _provider.connection;
+       
         }
 
 
