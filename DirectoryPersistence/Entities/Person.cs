@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DirectoryPersistence.Entities;
 
 
-namespace DirectoryPersistence.EntPerson
+namespace DirectoryPersistence.Entities
 {
     public class Person
     {
@@ -19,7 +19,4 @@ namespace DirectoryPersistence.EntPerson
         public virtual City City1 { get; set; }
     }
 
-    public class Person
-    {
-    }
 }

@@ -1,0 +1,9 @@
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\Directory.mdf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\Directory_log.ldf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\DirectoryRepository.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\DirectoryRepository.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\DirectoryPersistence.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\bin\Debug\DirectoryPersistence.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\obj\Debug\DirectoryRepositoryInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\obj\Debug\DirectoryRepository.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryRepository\obj\Debug\DirectoryRepository.pdb

@@ -10,17 +10,18 @@ using DirectoryPersistence.Entities;
 
 namespace DirectoryRepository.Implementations
 {
-    class CityRepository: ICityRepository
+    public class CityRepository: ICityRepository
     {
           private readonly SqlConnection _connection;
        
 
-        CityRepository()
+        public CityRepository()
         {
             _connection = new DBProviderFactory().connection;
         }
 
-        IEnumerable<City> getAllPersons()
+
+        IEnumerable<City> ICityRepository.getAllCities()
         {
             List<City> result = new List<City>();
 
@@ -40,9 +41,9 @@ namespace DirectoryRepository.Implementations
                 {
                     city = new City();
 
-                    city.cityId = Convert.ToInt32(dataReader["cityId"]);                   
+                    city.cityId = Convert.ToInt32(dataReader["cityId"]);
                     city.cityName = dataReader["cityName"].ToString();
-                    city.country = dataReader["country"].ToString();                                        
+                    city.country = dataReader["country"].ToString();
                     result.Add(city);
                 }
             }
@@ -50,5 +51,10 @@ namespace DirectoryRepository.Implementations
             return result;
         }
 
+
+         City ICityRepository.insertCity()
+         {
+             throw new NotImplementedException();
+         }
     }
 }

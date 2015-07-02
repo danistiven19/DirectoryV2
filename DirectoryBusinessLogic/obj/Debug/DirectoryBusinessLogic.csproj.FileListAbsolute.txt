@@ -1,0 +1,11 @@
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\Directory.mdf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\Directory_log.ldf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryBusinessLogic.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryBusinessLogic.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryPersistence.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryRepository.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryPersistence.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\bin\Debug\DirectoryRepository.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\obj\Debug\DirectoryBusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\obj\Debug\DirectoryBusinessLogic.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryBusinessLogic\obj\Debug\DirectoryBusinessLogic.pdb

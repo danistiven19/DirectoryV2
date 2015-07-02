@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DirectoryPersistence.EntPerson;
+using DirectoryPersistence.Entities;
 
 
-namespace DirectoryRepository
+namespace DirectoryRepository.Interfaces
 {
-    interface IPersonRepository
+    public interface IPersonRepository
     {
-        IEnumerable<Person> getAllPersons();
-        Person insertPerson();
+         IEnumerable<Person> getAllPersons();
+         Person insertPerson();
     }
 }
+
+

@@ -9,7 +9,7 @@ namespace DirectoryRepository.Interfaces
 {
     interface ICityRepository
     {
-        IEnumerable<City> getAllPersons();
+        IEnumerable<City> getAllCities();
         City insertCity();
     }
 }

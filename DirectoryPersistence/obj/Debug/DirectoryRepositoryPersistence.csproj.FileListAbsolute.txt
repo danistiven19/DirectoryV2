@@ -1,0 +1,6 @@
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\bin\Debug\Directory.mdf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\bin\Debug\Directory_log.ldf
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\bin\Debug\DirectoryPersistence.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\bin\Debug\DirectoryPersistence.pdb
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\obj\Debug\DirectoryPersistence.dll
+C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\obj\Debug\DirectoryPersistence.pdb

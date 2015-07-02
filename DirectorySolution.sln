@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryRepositoryPersiste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryRepositoryInterfaces", "DirectoryRepository\DirectoryRepositoryInterfaces.csproj", "{2C087AB7-FEBC-41EC-A5BE-40BDB37BD12E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryBusinessLogic", "DirectoryBusinessLogic\DirectoryBusinessLogic.csproj", "{DB2020F1-2CAF-4754-8F45-ACE5A8C16085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryTest", "DirectoryTest\DirectoryTest.csproj", "{052D5BFF-F9B5-4858-8730-BBF4D1E0C260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryExternalServices", "DirectoryExternalServices\DirectoryExternalServices.csproj", "{2C485F26-C1CB-4F5F-A934-201766077E34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{2C087AB7-FEBC-41EC-A5BE-40BDB37BD12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C087AB7-FEBC-41EC-A5BE-40BDB37BD12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C087AB7-FEBC-41EC-A5BE-40BDB37BD12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2020F1-2CAF-4754-8F45-ACE5A8C16085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2020F1-2CAF-4754-8F45-ACE5A8C16085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2020F1-2CAF-4754-8F45-ACE5A8C16085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2020F1-2CAF-4754-8F45-ACE5A8C16085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052D5BFF-F9B5-4858-8730-BBF4D1E0C260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052D5BFF-F9B5-4858-8730-BBF4D1E0C260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052D5BFF-F9B5-4858-8730-BBF4D1E0C260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052D5BFF-F9B5-4858-8730-BBF4D1E0C260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C485F26-C1CB-4F5F-A934-201766077E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C485F26-C1CB-4F5F-A934-201766077E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C485F26-C1CB-4F5F-A934-201766077E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C485F26-C1CB-4F5F-A934-201766077E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

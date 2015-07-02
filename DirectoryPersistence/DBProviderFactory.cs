@@ -13,8 +13,8 @@ namespace DirectoryPersistence
 
          public DBProviderFactory()
         {
-            connection = new SqlConnection("Data Source=(LocalDB)\v11.0;AttachDbFilename='|DataDirectory|\Directory.mdf';Integrated Security=True;");
-             connection.Open();
+            connection = new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename='C:\Users\drestrepoa\Documents\Visual Studio 2013\Projects\DirectorySolution\DirectoryPersistence\Directory.mdf';Integrated Security=True");
+           //  connection.Open();
         }
     }
 }
